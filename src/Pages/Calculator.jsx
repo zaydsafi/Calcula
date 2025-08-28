@@ -5,7 +5,6 @@ const Calculator = () => {
   const [value, setValue] = useState("");
   return (
     <div className="container">
-      <h1>Simple Calculator</h1>
       <div className="calculator">
         <form action="">
           <div className="display">
